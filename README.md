@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # navegacao
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# AppNavecacao
+>>>>>>> 888986dd33738c0b722098553f79abf23247d818
